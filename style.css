@@ -1,6 +1,5 @@
 * {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", Arial, Verdana,
-    sans-serif;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Arial, Verdana, sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -86,7 +85,6 @@ nav {
   width: 120px;
   transition: all 0.5s;
   background-position: left;
-  padding-left: 20px;
   background-image: url(images/search_icon.svg), linear-gradient(to top, #838383, #646769, #8a8a8a);
   background-repeat: no-repeat;
   padding-left: 20px;
