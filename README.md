@@ -3,7 +3,7 @@
 > This a clone of the old Apple Website(2014).
 > The purpose of this project is to practice building a webpage using images as a background and adding gradients to elements.
 
-> ![screenshot](nyt_screenshot.png)
+> ![screenshot](screenshot.png)
 
 ## Built With
 
