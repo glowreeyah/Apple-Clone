@@ -9,6 +9,7 @@ body {
   cursor: pointer;
   color: #fff;
   overflow-y: scroll;
+  margin: 0 auto;
 }
 
 /* HEADER STYLE */
