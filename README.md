@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/glowreeyah/Apple-Clone/feature/index.html)
+[Live Demo Link](https://raw.githack.com/glowreeyah/Apple-Clone/master/index.html)
 
 ## Getting Started
 
